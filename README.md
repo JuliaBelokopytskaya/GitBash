@@ -1,1 +1,1 @@
-# GitBush
+# GitBash
